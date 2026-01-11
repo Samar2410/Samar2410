@@ -25,11 +25,10 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/Tailwind-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
-  <img src="https://img.shields.io/badge/JAVA-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
-  <img src="https://img.shields.io/badge/Springboot-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
-  <img src="https://img.shields.io/badge/ReactJs-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mysql&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/JAVA-4EA94B?style=for-the-badge&logo=java&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Springboot-4EA94B?style=for-the-badge&logo=java&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/ReactJs-4EA94B?style=for-the-badge&logo=react&logoColor=white"> &nbsp;
  </div>
  <hr>
 
-![Samar2410's Stats](https://github-readme-stats.vercel.app/api?username=Samar2410&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
