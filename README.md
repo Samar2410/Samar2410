@@ -11,9 +11,6 @@
  
  <hr>
  
- ## <Visitor's Count>🧐
- ![VisitorCount](https://profile-counter.glitch.me/Samar2410/count.svg) 
- <hr>
  
  ## Skill-Set🚀
  <div>
@@ -26,8 +23,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> &nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> &nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/JAVA-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Springboot-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/ReactJs-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
  </div>
  <hr>
 
